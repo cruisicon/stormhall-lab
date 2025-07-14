@@ -1,12 +1,8 @@
-# Prevent massive folders from being added
-Downloads/
-Desktop/
-Documents/
-Videos/
-Pictures/
-Music/
-VirtualBox VMs/
-.snap/
-.cache/
-Public/
-Templates/
+# Ignore system folders
+../*
+!README.md
+!linux/
+!networking/
+!security/
+!projects/
+!reference.md
