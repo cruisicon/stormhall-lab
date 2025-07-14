@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Labs & Learning
+1# 🛡️ Cybersecurity Labs & Learning
 
 Welcome to my hands-on cybersecurity and IT learning repo. I'm a U.S. veteran and full-time student at Long Beach City College, currently pursuing an A.S. in Information Technology with a focus on Cybersecurity. This repository serves as a journal and collection of lab exercises, configs, and documentation from my journey toward becoming a cybersecurity professional.
 
@@ -43,5 +43,5 @@ I'm a veteran with 7+ years of CDL-A hazmat logistics. I’m transitioning into 
 > "Veteran-driven. Lab-tested. Mission-ready."
 
 ## 🤝 Connect
-- LinkedIn: [https://www.linkedin.com/in/cruisicon](https://www.linkedin.com/in/cruisicon)
+- LinkedIn: [https://www.linkedin.com/in/cruisicon](https://www.linkedin.com/in/matthew-childers-3b8a5498/)
 
