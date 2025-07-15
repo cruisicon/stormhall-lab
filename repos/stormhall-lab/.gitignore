@@ -1,8 +1,7 @@
 # Ignore system folders
 ../*
-!README.md
+
 !linux/
 !networking/
 !security/
 !projects/
-!reference.md
