@@ -17,6 +17,7 @@ Welcome to my hands-on cybersecurity and IT learning repo. I'm a U.S. veteran an
 | CompTIA **Network+** | [`cert-study/network-plus`](cert-study/network-plus/) | ⏳ starting Aug ’25 |
 | CompTIA **Security+** | [`cert-study/security-plus`](cert-study/security-plus/) | 📅 Q4 ’25 |
 | Cisco **CCNA** | [`cert-study/ccna`](cert-study/ccna/) | 📅 2026 |
+| NDG **Linux Essentials** | [`cert-study/linux-essentials`](cert-study/linux-essentials/) | ⏳ started Jul ’25 |
 
 
 ---
