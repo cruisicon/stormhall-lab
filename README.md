@@ -1,16 +1,23 @@
 1# 🛡️ Cybersecurity Labs & Learning
 
 Welcome to my hands-on cybersecurity and IT learning repo. I'm a U.S. veteran and full-time student at Long Beach City College, currently pursuing an A.S. in Information Technology with a focus on Cybersecurity. This repository serves as a journal and collection of lab exercises, configs, and documentation from my journey toward becoming a cybersecurity professional.
-
 ---
 
 ## 📚 What You’ll Find Here
 
-- `networking/` – Cisco NetAcad labs, Network+ prep, pfSense routing
-- `linux/` – Shell scripts, Linux Essentials notes, Ubuntu/Kali configs
-- `security/` – Security+ study notes, firewall rules, SOC tool basics
-- `projects/` – Home lab documentation, VM architecture
-- `reference.md` – Study links, cheat sheets, curated materials
+## 🏗️ Hands-On Labs
+| Area | Folder | Description |
+|------|--------|-------------|
+| Networking home-lab | [`labs/network`](labs/network/) | pfSense, Wireshark, custom challenges |
+| Security home-lab   | [`labs/security`](labs/security/) | AD abuse, SIEM hunts, etc. |
+
+## 🎓 Certification Study Tracks
+| Cert | Folder | Status |
+|------|--------|--------|
+| CompTIA **Network+** | [`cert-study/network-plus`](cert-study/network-plus/) | ⏳ starting Aug ’25 |
+| CompTIA **Security+** | [`cert-study/security-plus`](cert-study/security-plus/) | 📅 Q4 ’25 |
+| Cisco **CCNA** | [`cert-study/ccna`](cert-study/ccna/) | 📅 2026 |
+
 
 ---
 
