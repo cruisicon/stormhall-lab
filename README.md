@@ -1,55 +1,60 @@
-1# 🛡️ Cybersecurity Labs & Learning
+# 🛡️ Cruisicon Cyber Lab
+![Last Commit](https://img.shields.io/github/last-commit/cruisicon/stormhall-lab)
+![Repo Size](https://img.shields.io/github/repo-size/cruisicon/stormhall-lab)
+![License](https://img.shields.io/github/license/cruisicon/stormhall-lab)
+![Top Language](https://img.shields.io/github/languages/top/cruisicon/stormhall-lab)
+![GitHub Stars](https://img.shields.io/github/stars/cruisicon/stormhall-lab?style=social)
 
-Welcome to my hands-on cybersecurity and IT learning repo. I'm a U.S. veteran and full-time student at Long Beach City College, currently pursuing an A.S. in Information Technology with a focus on Cybersecurity. This repository serves as a journal and collection of lab exercises, configs, and documentation from my journey toward becoming a cybersecurity professional.
+Welcome to my hands-on cybersecurity and IT learning repo.  
+This is where I’m building skills in Linux, networking, system administration, and cybersecurity — one lab at a time.
+
+**Status:** Just getting started — adding new labs weekly.  
+
+**Now / Next / Done**  
+- ✅ Started NDG Linux Essentials (July ’25)  
+- 🔄 Working on pfSense setup & networking labs (Aug ’25)  
+- ⏭ Security+ prep (Sept ’25)  
+
 ---
 
 ## 📚 What You’ll Find Here
 
-## 🏗️ Hands-On Labs
-| Area | Folder | Description |
-|------|--------|-------------|
-| Networking home-lab | [`labs/network`](labs/network/) | pfSense, Wireshark, custom challenges |
-| Security home-lab   | [`labs/security`](labs/security/) | AD abuse, SIEM hunts, etc. |
+### 🏗️ Hands-On Labs
+| Area              | Folder          | Description                        |
+|-------------------|-----------------|------------------------------------|
+| Networking lab    | `labs/network`  | pfSense, Wireshark, custom challenges |
+| Security lab      | `labs/security` | AD abuse, SIEM hunts, etc.          |
 
-## 🎓 Certification Study Tracks
-| Cert | Folder | Status |
-|------|--------|--------|
-| CompTIA **Network+** | [`cert-study/network-plus`](cert-study/network-plus/) | ⏳ starting Aug ’25 |
-| CompTIA **Security+** | [`cert-study/security-plus`](cert-study/security-plus/) | 📅 Q4 ’25 |
-| Cisco **CCNA** | [`cert-study/ccna`](cert-study/ccna/) | 📅 2026 |
-| NDG **Linux Essentials** | [`cert-study/linux-essentials`](cert-study/linux-essentials/) | ⏳ started Jul ’25 |
-
+### 🎓 Certification Study Tracks
+| Cert                 | Folder                          | Status               |
+|----------------------|---------------------------------|----------------------|
+| CompTIA Network+     | `cert-study/network-plus`       | ⏳ starting Aug ’25   |
+| CompTIA Security+    | `cert-study/security-plus`      | 📅 Q4 ’25             |
+| Cisco CCNA           | `cert-study/ccna`               | 📅 2026               |
+| NDG Linux Essentials | `cert-study/linux-essentials`   | ⏳ started Jul ’25    |
 
 ---
 
 ## 🛠️ Lab Environment
-
-- Lenovo Legion Tower w/ Ubuntu Desktop
-- VirtualBox (bridged networking)
-- pfSense firewall
-- VMs: Ubuntu Server, Kali Linux, Windows 10 Eval
-- Tools: Wireshark, Nmap, Burp Suite, Git
+- Lenovo Legion Tower w/ Ubuntu Desktop  
+- VirtualBox (bridged networking)  
+- pfSense firewall  
+- VMs: Ubuntu Server, Kali Linux, Windows 10 Eval  
+- Tools: Wireshark, Nmap, Burp Suite, Git  
 
 ---
 
-## 📅 Timeline
-
-| Month      | Focus Area           |
-|------------|----------------------|
-| July 2025  | Linux Essentials, pfSense setup |
-| Aug 2025   | Networking (COSN 10) |
-| Sept 2025  | Security+ prep       |
+## 📅 Roadmap
+- **July 2025:** Linux Essentials, pfSense setup  
+- **Aug 2025:** Networking (COSN 10)  
+- **Sept 2025:** Security+ prep  
 
 ---
 
 ## 🙋‍♂️ About Me
-
-I'm a veteran with 7+ years of CDL-A hazmat logistics. I’m transitioning into tech with a passion for cybersecurity, networking, and hands-on learning. Goal: land a security-focused role by 2026.
+I’m transitioning from a career in logistics into tech, with a focus on cybersecurity, networking, and hands-on learning. My goal: land a security-focused role by 2029.
 
 ---
 
-> "Veteran-driven. Lab-tested. Mission-ready."
-
 ## 🤝 Connect
-- LinkedIn: [https://www.linkedin.com/in/cruisicon](https://www.linkedin.com/in/matthew-childers-3b8a5498/)
-
+- LinkedIn: [linkedin.com/in/cruisicon](https://www.linkedin.com/in/cruisicon)
