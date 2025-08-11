@@ -1,7 +1,7 @@
 # 🛡️ Cruisicon Cyber Lab
 ![Last Commit](https://img.shields.io/github/last-commit/cruisicon/stormhall-lab)
 ![Repo Size](https://img.shields.io/github/repo-size/cruisicon/stormhall-lab)
-![License](https://img.shields.io/github/license/cruisicon/stormhall-lab)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Top Language](https://img.shields.io/github/languages/top/cruisicon/stormhall-lab)
 ![GitHub Stars](https://img.shields.io/github/stars/cruisicon/stormhall-lab?style=social)
 
